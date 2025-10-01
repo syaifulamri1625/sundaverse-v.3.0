@@ -86,7 +86,7 @@ Silakan fork repo ini, buat branch baru, lakukan perubahan, lalu ajukan Pull Req
 Proyek ini dirilis di bawah lisensi MIT.
 Lihat file LICENSE untuk detail lebih lanjut.
 
-<p align="center">✨ Dibuat dengan ❤️ oleh <a href="https://github.com/syaifulamri1625">Syaiful Amri</a> ✨</p> ```
-
+<p align="center">✨ Dibuat dengan ❤️ oleh <a href="https://github.com/syaifulamri1625">Syaiful Amri</a> ✨</p>
+<p align="center">Broadcasting Perfilman <a href="https://github.com/syaifulamri1625"> SMKN 1 Gunung Sindur</a> ✨</p>
 ---
 
