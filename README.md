@@ -50,10 +50,8 @@ npm run dev
 atau
 yarn dev
 
----
-
 Lalu buka aplikasi di browser:
-### 👉 http://localhost:3000
+👉 http://localhost:3000
 
 ---
 
@@ -65,8 +63,8 @@ yarn test
 ---
 
 ## 🚀 Deployment
-npm run build
-npm start
+- npm run build
+- npm start
 
 Deploy ke platform pilihanmu: Vercel, Netlify, Heroku, atau VPS.
 
@@ -91,7 +89,3 @@ Lihat file LICENSE untuk detail lebih lanjut.
 
 ---
 
-## 👉 Tinggal ganti
-https://raw.githubusercontent.com/syaifulamri1625/sundaverse-v.3.0/main/public/preview.png dengan link gambar preview aplikasi kamu.
-
----
