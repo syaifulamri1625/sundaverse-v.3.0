@@ -31,7 +31,7 @@
 
 ---
 
-⚙️ Instalasi & Setup
+## ⚙️ Instalasi & Setup
 # Clone repo
 git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
 cd sundaverse-v.3.0
@@ -58,7 +58,7 @@ yarn dev
 Lalu buka aplikasi di browser:
 👉 http://localhost:3000
 
-🧪 Testing
+## 🧪 Testing
 npm test
 # atau
 yarn test
@@ -70,12 +70,12 @@ npm start
 
 Deploy ke platform pilihanmu: Vercel, Netlify, Heroku, atau VPS.
 
-🤝 Kontribusi
+## 🤝 Kontribusi
 
 Kontribusi sangat terbuka!
 Silakan fork repo ini, buat branch baru, lakukan perubahan, lalu ajukan Pull Request ✨
 
-📞 Kontak & Media Sosial
+## 📞 Kontak & Media Sosial
 <p align="center"> <a href="mailto:syaifulamri1625@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/syaifulamri1625"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/syaifulamri"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/syaifulamri1625"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
 📄 Lisensi
 
@@ -84,4 +84,4 @@ Lihat file LICENSE untuk detail lebih lanjut.
 
 <p align="center">✨ Dibuat dengan ❤️ oleh <a href="https://github.com/syaifulamri1625">Syaiful Amri</a> ✨</p> ```
 
-👉 Tinggal ganti https://raw.githubusercontent.com/syaifulamri1625/sundaverse-v.3.0/main/public/preview.png dengan link gambar preview aplikasi kamu.
+## 👉 Tinggal ganti https://raw.githubusercontent.com/syaifulamri1625/sundaverse-v.3.0/main/public/preview.png dengan link gambar preview aplikasi kamu.
