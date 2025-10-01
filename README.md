@@ -3,9 +3,10 @@
 </div>
 
 <h1 align="center">🌌 Sundaverse v3.0</h1>
+<h2 align="center">Jelajahi Kekayaan Budaya Sunda Melalui Kekuatan AI Kreatif</h2>
 
 <p align="center">
-  Versi terbaru dari <b>Sundaverse</b>, menghadirkan performa lebih cepat, UI/UX lebih segar, dan arsitektur yang lebih scalable 🚀  
+  Versi terbaru dari <b>Sundaverse</b>, Menghadirkan Performa Lebih Cepat, UI/UX lebih segar, dan Arsitektur yang lebih Scalable 🚀  
 </p>
 
 ---
