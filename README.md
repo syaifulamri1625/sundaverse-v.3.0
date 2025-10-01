@@ -46,3 +46,6 @@ sundaverse-v.3.0/
 ├── .env.example      # contoh konfigurasi environment
 ├── package.json      # dependencies & scripts
 └── README.md
+
+---
+## ⚙️ Instalasi & Setup
