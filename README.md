@@ -47,6 +47,17 @@ sundaverse-v.3.0/
 ├── package.json      # dependencies & scripts
 └── README.md
 
+
+
 ---
 
-## 📂 Struktur Direktori
+
+## 📸 Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/syaifulamri1625/sundaverse-v.3.0/main/public/preview.png" alt="Sundaverse Preview" width="800"/>
+</p>
+
+*(Jika gambar tidak tampil, pastikan file `public/preview.png` tersedia atau ganti dengan URL screenshot yang sesuai.)*
+
+---
