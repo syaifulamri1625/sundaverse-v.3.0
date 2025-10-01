@@ -37,6 +37,11 @@ git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
 cd sundaverse-v.3.0
 
 # Install dependencies
+# Clone repo
+git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
+cd sundaverse-v.3.0
+
+# Install dependencies
 npm install
 # atau
 yarn install
@@ -48,6 +53,7 @@ cp .env.example .env
 npm run dev
 # atau
 yarn dev
+
 
 
 Lalu buka aplikasi di browser:
