@@ -31,33 +31,24 @@
 
 ---
 
-## 📂 Struktur Direktori
+⚙️ Instalasi & Setup
+# Clone repo
+git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
+cd sundaverse-v.3.0
 
-```bash
-sundaverse-v.3.0/
-├── src/              # kode utama aplikasi
-│   ├── components/   # komponen UI
-│   ├── pages/        # halaman utama
-│   ├── services/     # service/API handler
-│   └── utils/        # helper/utilitas
-├── public/           # aset statis (gambar, ikon, dll)
-├── config/           # konfigurasi environment / app
-├── tests/            # unit & integration tests
-├── .env.example      # contoh konfigurasi environment
-├── package.json      # dependencies & scripts
-└── README.md
+# Install dependencies
+npm install
+# atau
+yarn install
 
+# Setup environment
+cp .env.example .env
 
-
----
+# Jalankan development server
+npm run dev
+# atau
+yarn dev
 
 
-## 📸 Preview
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/syaifulamri1625/sundaverse-v.3.0/main/public/preview.png" alt="Sundaverse Preview" width="800"/>
-</p>
-
-*(Jika gambar tidak tampil, pastikan file `public/preview.png` tersedia atau ganti dengan URL screenshot yang sesuai.)*
-
----
+Lalu buka aplikasi di browser:
+👉 http://localhost:3000
