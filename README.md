@@ -1,66 +1,94 @@
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
-# 🌌 Sundaverse v3.0
 
-Sundaverse adalah proyek open-source yang dikembangkan untuk **[jelaskan tujuan utama aplikasi, misalnya: platform edukasi, marketplace, social app, dll]**.  
-Versi **3.0** menghadirkan banyak peningkatan, baik dari segi fitur, performa, maupun arsitektur sistem.
+<h1 align="center">🌌 Sundaverse v3.0</h1>
 
----
-
-## 🚀 Fitur Utama
-
-- ⚡ Performa lebih cepat dan stabil
-- 🎨 UI/UX baru yang lebih responsif
-- 🔐 Sistem autentikasi lebih aman
-- 📦 Modular & scalable architecture
-- 🌍 Dukungan multi-platform
-- 🛠️ Mudah untuk dikembangkan dan dikustomisasi
-
-*(Silakan tambahkan detail fitur spesifik proyekmu)*
+<p align="center">
+  Versi terbaru dari <b>Sundaverse</b>, menghadirkan performa lebih cepat, UI/UX lebih segar, dan arsitektur yang lebih scalable 🚀  
+</p>
 
 ---
 
-## 🛠️ Instalasi & Setup
+## ✨ Fitur Utama
 
-Ikuti langkah-langkah berikut untuk menjalankan proyek secara lokal:
+- ⚡ **Performa lebih cepat** dan stabil  
+- 🎨 **UI/UX modern & responsif**  
+- 🔐 **Autentikasi aman** dengan sistem terbaru  
+- 📦 **Arsitektur modular & scalable**  
+- 🌍 **Multi-platform support**  
+- 🛠️ **Mudah dikembangkan & dikustomisasi**  
 
-1. Clone repositori:
-   ```bash
-   git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
-   cd sundaverse-v.3.0
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/syaifulamri1625/sundaverse-v.3.0/main/public/preview.png" alt="Sundaverse Preview" width="800"/>
+</p>
+
+*(Jika gambar tidak tampil, pastikan file `public/preview.png` tersedia atau ganti dengan URL screenshot yang sesuai.)*
+
+---
 
 ## 📂 Struktur Direktori
 
-Struktur umum proyek ini (sesuaikan dengan folder repo-mu):
+```bash
+sundaverse-v.3.0/
+├── src/              # kode utama aplikasi
+│   ├── components/   # komponen UI
+│   ├── pages/        # halaman utama
+│   ├── services/     # service/API handler
+│   └── utils/        # helper/utilitas
+├── public/           # aset statis (gambar, ikon, dll)
+├── config/           # konfigurasi environment / app
+├── tests/            # unit & integration tests
+├── .env.example      # contoh konfigurasi environment
+├── package.json      # dependencies & scripts
+└── README.md
+⚙️ Instalasi & Setup
+bash
+Salin kode
+# Clone repo
+git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
+cd sundaverse-v.3.0
 
----
-
+# Install dependencies
 npm install
 # atau
 yarn install
 
+# Setup environment
+cp .env.example .env
 
+# Jalankan development server
+npm run dev
+# atau
+yarn dev
+Lalu buka aplikasi di browser:
+👉 http://localhost:3000
 
-# Run and deploy your AI Studio app
-This contains everything you need to run your app locally.
-View your app in AI Studio: https://ai.studio/apps/drive/1ANRijddpMoh5HDS4pT50f-jZmFypVV0Y
+🧪 Testing
+bash
+Salin kode
+npm test
+# atau
+yarn test
+🚀 Deployment
+bash
+Salin kode
+npm run build
+npm start
+Deploy ke platform pilihanmu: Vercel, Netlify, Heroku, atau VPS.
 
-## Run Locally
-**Prerequisites:**  Node.js
-=================================================================================
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-=================================================================================
+🤝 Kontribusi
+Kontribusi sangat terbuka!
+Silakan fork repo ini, buat branch baru, lakukan perubahan, lalu ajukan Pull Request ✨
 
-Cara Running Aplikasi di Local PC
-1. cd /Volumes/SYSTEM/sundaverse-v.3.0 
-2. npm run dev
-3. VITE v6.3.6  ready in 457 ms
+📞 Kontak & Media Sosial
+<p align="center"> <a href="mailto:syaifulamri1625@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/syaifulamri1625"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/syaifulamri"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/syaifulamri1625"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+📄 Lisensi
+Proyek ini dirilis di bawah lisensi MIT.
+Lihat file LICENSE untuk detail lebih lanjut.
 
-  ➜  Local:   http://localhost:3000/
-  ➜  Network: http://192.168.1.11:3000/
-
+<p align="center">✨ Dibuat dengan ❤️ oleh <a href="https://github.com/syaifulamri1625">Syaiful Amri</a> ✨</p> ```
