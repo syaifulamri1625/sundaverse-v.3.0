@@ -32,26 +32,26 @@
 ---
 
 ## ⚙️ Instalasi & Setup
-# Clone repo
+Clone repo
 git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
 cd sundaverse-v.3.0
 
-# Install dependencies
-# Clone repo
+Install dependencies
+Clone repo
 git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
 cd sundaverse-v.3.0
 
-# Install dependencies
+Install dependencies
 npm install
-# atau
+atau
 yarn install
 
-# Setup environment
+Setup environment
 cp .env.example .env
 
-# Jalankan development server
+Jalankan development server
 npm run dev
-# atau
+atau
 yarn dev
 
 
@@ -60,7 +60,7 @@ Lalu buka aplikasi di browser:
 
 ## 🧪 Testing
 npm test
-# atau
+atau
 yarn test
 
 🚀 Deployment
