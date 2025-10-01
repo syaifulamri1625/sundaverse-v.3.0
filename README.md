@@ -21,9 +21,24 @@ Versi **3.0** menghadirkan banyak peningkatan, baik dari segi fitur, performa, m
 
 ---
 
+## 🛠️ Instalasi & Setup
+
+Ikuti langkah-langkah berikut untuk menjalankan proyek secara lokal:
+
+1. Clone repositori:
+   ```bash
+   git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
+   cd sundaverse-v.3.0
+
 ## 📂 Struktur Direktori
 
 Struktur umum proyek ini (sesuaikan dengan folder repo-mu):
+
+---
+
+npm install
+# atau
+yarn install
 
 
 
