@@ -48,4 +48,5 @@ sundaverse-v.3.0/
 └── README.md
 
 ---
-## ⚙️ Instalasi & Setup
+
+## 📂 Struktur Direktori
