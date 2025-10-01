@@ -22,7 +22,7 @@
 
 ## 📸 Preview
 <p align="center">
-  <img src="https://github.com/syaifulamri1625/sundaverse-v.3.0/blob/4367d07c8f33cb8233ab627e4e866694a4a713ca/public/sundaverse.png" alt="Sundaverse Preview" width="800"/>
+  <img src="https://github.com/syaifulamri1625/sundaverse-v.3.0/blob/4367d07c8f33cb8233ab627e4e866694a4a713ca/public/sundaverse.png" alt="Sundaverse Preview" width="1200"/>
 </p>
 
 *(Jika gambar tidak tampil, pastikan file `public/preview.png` tersedia atau ganti dengan URL screenshot yang sesuai.)*
