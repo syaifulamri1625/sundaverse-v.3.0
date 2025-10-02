@@ -44,13 +44,13 @@
 
 ## ⚙️ Instalasi & Setup
 1. Clone repo
-git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
-cd sundaverse-v.3.0
+contoh : git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
+         cd sundaverse-v.3.0
 
 2. Install dependencies
 Clone repo
-git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
-cd sundaverse-v.3.0
+contoh : git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
+         cd sundaverse-v.3.0
 
 3. Install dependencies
 npm install
