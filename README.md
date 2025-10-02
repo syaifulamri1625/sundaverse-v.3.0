@@ -29,17 +29,17 @@
 
 ## 📸 Preview Pembuat Naskah
 <p align="center">
-  <img src="https://github.com/syaifulamri1625/sundaverse-v.3.0/blob/4367d07c8f33cb8233ab627e4e866694a4a713ca/public/sundaverse.png" alt="Sundaverse Preview" width="1200"/>
+  <img src="https://github.com/syaifulamri1625/sundaverse-v.3.0/blob/9f71a26f5c411af9166ea5a595d9ee1bb6cd9600/public/generator_naskah.png" alt="Sundaverse Preview" width="1200"/>
 </p>
 
 ## 📸 Preview Generator Video VEO3
 <p align="center">
-  <img src="https://github.com/syaifulamri1625/sundaverse-v.3.0/blob/4367d07c8f33cb8233ab627e4e866694a4a713ca/public/sundaverse.png" alt="Sundaverse Preview" width="1200"/>
+  <img src="https://github.com/syaifulamri1625/sundaverse-v.3.0/blob/9f71a26f5c411af9166ea5a595d9ee1bb6cd9600/public/generator_video.png" alt="Sundaverse Preview" width="1200"/>
 </p>
 
 ## 📸 Preview VEO PROMPT Generator
 <p align="center">
-  <img src="https://github.com/syaifulamri1625/sundaverse-v.3.0/blob/4367d07c8f33cb8233ab627e4e866694a4a713ca/public/sundaverse.png" alt="Sundaverse Preview" width="1200"/>
+  <img src="https://github.com/syaifulamri1625/sundaverse-v.3.0/blob/9f71a26f5c411af9166ea5a595d9ee1bb6cd9600/public/generator_prompt.png" alt="Sundaverse Preview" width="1200"/>
 </p>
 
 ---
