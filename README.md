@@ -75,23 +75,24 @@ example : http://localhost:3000
 ## ⚙️ Setup (Localhost)
 1. Forward email alias ke **Firefox Rellay**: https://relay.firefox.com/ (agar semua email masuk ke inbox Gmail utama) -> Create a new mask **Generate Mask**
 2. Join **Cloud Skill Boost**: https://www.cloudskillsboost.google/ (gunakan alias email yang dibuat di Firefox Rellay, disarankan untuk tidak menggunakan Gmail utama)
-3. Pilih menu Explore di **Cloud Skill Boost** -> **Vertex AI Challenge Lab**
-4. Install Node.JS dan NPM
-5. Masuk direktori aplikasi disimpan, example :
+3. Buka Gmail perika dan Konfirmasikan email masuk dari https://www.cloudskillsboost.google/
+4. Pilih menu Explore di **Cloud Skill Boost** -> **Vertex AI Challenge Lab**
+5. Install Node.JS dan NPM
+6. Masuk direktori aplikasi disimpan, example :
    - C:\Users\AmriCameo> cd..
    - C:\Users\> cd
    - C:\> cd sundaverse-v.3.0
    - **C:\sundaverse-v.3.0>npm install** (tunggu hingga proses selesai)
-6. Kembali ke **Vertex AI Challenge Lab** -> Start Lab
-7. Buka Google Cloud Console -> Klik kanan Open Link in Incognito windows
-8. Masih di Incognito windows, dengan tab baru masuk ke **Google AI Studio** -> Masuk Akun Student **Cloud Skill Boost**
-9. Try Gemini -> Accept -> Get API Key
-10. Create API Key -> Pilih Project, example : klabs/gcp-06-02-faea3afbae780 -> Create API Key in existing project
-11. Copy API Key, hasil Generate
-12. Buka file .env.local (di folder aplikasi sundaverse-v.3.0) -> paste API Key dari **Google AI Studio**, example :
+7. Kembali ke **Vertex AI Challenge Lab** -> Start Lab
+8. Buka Google Cloud Console -> Klik kanan Open Link in Incognito windows
+9. Masih di Incognito windows, dengan tab baru masuk ke **Google AI Studio** -> Masuk Akun Student **Cloud Skill Boost**
+10. Try Gemini -> Accept -> Get API Key
+11. Create API Key -> Pilih Project, example : klabs/gcp-06-02-faea3afbae780 -> Create API Key in existing project
+12. Copy API Key, hasil Generate
+13. Buka file .env.local (di folder aplikasi sundaverse-v.3.0) -> paste API Key dari **Google AI Studio**, example :
     zcasklabs/gcp-06-02-faea3afbae780
-13. Kembali ke direktori aplikasi disimpan, example : C:\> cd sundaverse-v.3.0
-14. Ketik **npm run dev**
+14. Kembali ke direktori aplikasi disimpan, example : C:\> cd sundaverse-v.3.0
+15. Ketik **npm run dev**
 ---
 
 ## 🧪 Testing
