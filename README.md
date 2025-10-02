@@ -81,7 +81,9 @@ example : http://localhost:3000
    - C:\Users\AmriCameo> cd..
    - C:\Users\> cd
    - C:\> cd sundaverse-v.3.0
-   - C:\sundaverse-v.3.0>npm install
+   - C:\sundaverse-v.3.0>npm install (tunggu hingga proses selesai)
+6. Buka file .env.local (pada folder aplikasi sundaverse-v.3.0) -> paste API Key
+7. 
 ---
 
 ## 🧪 Testing
