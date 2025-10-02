@@ -90,7 +90,9 @@ example : http://localhost:3000
 11. Copy API Key, hasil Generate
 12. Buka file .env.local (di folder aplikasi sundaverse-v.3.0) -> paste API Key dari **Google AI Studio**, example :
     zcasklabs/gcp-06-02-faea3afbae780
-
+13. Kembali ke direktori aplikasi disimpan, example : C:\> cd sundaverse-v.3.0
+14. Ketik npm run dev
+15. 
 ---
 
 ## 🧪 Testing
