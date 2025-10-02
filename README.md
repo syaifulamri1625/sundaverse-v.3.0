@@ -19,6 +19,19 @@
 5.  🌍 **Multi-platform support**  
 6.  🛠️ **Mudah dikembangkan & dikustomisasi**  
 
+Tanpa akun Pro, tetap bisa bikin video unlimited
+Ada fitur suara dialog otomatis
+Bisa pakai image referensi biar hasilnya lebih presisi
+Sangat cocok dipakai untuk bikin konten YouTube, TikTok, maupun Instagram Reels.
+
+---
+
+## ✨ Keunggulan
+1.  ⚡ **Tanpa akun Pro, tetap bisa bikin video unlimited**
+2.  🎨 **Ada fitur suara dialog otomatis**  
+3.  🔐 **Bisa pakai image referensi biar hasilnya lebih presisi**
+4.  📦 **Sangat cocok dipakai untuk bikin konten YouTube, TikTok, maupun Instagram Reels.**  
+
 ---
 
 ## 📸 Preview Pembuat Naskah
