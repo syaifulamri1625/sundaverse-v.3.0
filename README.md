@@ -77,11 +77,11 @@ example : http://localhost:3000
 2. Join **Cloud Skill Boost**: https://www.cloudskillsboost.google/ (gunakan alias email yang dibuat di Firefox Rellay, disarankan untuk tidak menggunakan Gmail utama)
 3. Pilih menu Explore di **Cloud Skill Boost** -> **Vertex AI Challenge Lab**
 4. Install Node.JS dan NPM
-5. Masuk direktori aplikasi disimpan
-   example :
+5. Masuk direktori aplikasi disimpan, example :
    - C:\Users\AmriCameo> cd..
-   - C:\Users\AmriCameo> cd
-
+   - C:\Users\> cd
+   - C:\> cd sundaverse-v.3.0
+   - C:\sundaverse-v.3.0>npm install
 ---
 
 ## 🧪 Testing
