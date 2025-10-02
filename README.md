@@ -73,7 +73,8 @@ example : http://localhost:3000
 ---
 
 ## ⚙️ Instalasi & Setup (Localhost)
-1. Firefox Rellay : https://relay.firefox.com/
+1. Forward email alias ke Firefox Rellay : https://relay.firefox.com/ (fungsinya agar semua email masuk ke email utama)
+2. 
 
 ---
 
