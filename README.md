@@ -44,7 +44,7 @@
 
 ---
 
-## ⚙️ Instalasi & Setup (Repositori)
+## ⚙️ Instalasi (Repositori)
 1. Clone repo
 example : git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
          cd sundaverse-v.3.0
@@ -72,7 +72,7 @@ example : http://localhost:3000
 
 ---
 
-## ⚙️ Instalasi & Setup (Localhost)
+## ⚙️ Setup (Localhost)
 1. Forward email alias ke **Firefox Rellay**: https://relay.firefox.com/ (agar semua email masuk ke inbox Gmail utama) -> **Generate Mask**
 2. Join **Cloud Skill Boost**: https://www.cloudskillsboost.google/ (gunakan alias email yang dibuat di Firefox Rellay, disarankan untuk tidak menggunakan Gmail utama)
 3. Pilih menu Explore di **Cloud Skill Boost** -> **Vertex AI Challenge Lab**
@@ -81,7 +81,7 @@ example : http://localhost:3000
    - C:\Users\AmriCameo> cd..
    - C:\Users\> cd
    - C:\> cd sundaverse-v.3.0
-   - C:\sundaverse-v.3.0>npm install (tunggu hingga proses selesai)
+   - **C:\sundaverse-v.3.0>npm install** (tunggu hingga proses selesai)
 6. Kembali ke **Vertex AI Challenge Lab** -> Start Lab
 7. Buka Google Cloud Console -> Klik kanan Open Link in Incognito windows
 8. Masih di Incognito windows, dengan tab baru masuk ke **Google AI Studio** -> Masuk Akun Student **Cloud Skill Boost**
@@ -91,8 +91,7 @@ example : http://localhost:3000
 12. Buka file .env.local (di folder aplikasi sundaverse-v.3.0) -> paste API Key dari **Google AI Studio**, example :
     zcasklabs/gcp-06-02-faea3afbae780
 13. Kembali ke direktori aplikasi disimpan, example : C:\> cd sundaverse-v.3.0
-14. Ketik npm run dev
-15. 
+14. Ketik **npm run dev**
 ---
 
 ## 🧪 Testing
