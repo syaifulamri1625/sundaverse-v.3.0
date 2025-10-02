@@ -12,12 +12,12 @@
 ---
 
 ## ✨ Fitur Utama
-- ⚡ **Performa lebih cepat** dan stabil  
-- 🎨 **UI/UX modern & responsif**  
-- 🔐 **Autentikasi aman** dengan sistem terbaru  
-- 📦 **Arsitektur modular & scalable**  
-- 🌍 **Multi-platform support**  
-- 🛠️ **Mudah dikembangkan & dikustomisasi**  
+1.  ⚡ **Performa lebih cepat** dan stabil  
+2.  🎨 **UI/UX modern & responsif**  
+3.  🔐 **Autentikasi aman** dengan sistem terbaru  
+4.  📦 **Arsitektur modular & scalable**  
+5.  🌍 **Multi-platform support**  
+6.  🛠️ **Mudah dikembangkan & dikustomisasi**  
 
 ---
 
