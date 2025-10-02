@@ -86,9 +86,11 @@ example : http://localhost:3000
 7. Buka Google Cloud Console -> Klik kanan Open Link in Incognito windows
 8. Masih di Incognito windows, dengan tab baru masuk ke **Google AI Studio** -> Masuk Akun Student **Cloud Skill Boost**
 9. Try Gemini -> Accept -> Get API Key
-10. Create API Key -> Pilih Project
-11. Buka file .env.local (di folder aplikasi sundaverse-v.3.0) -> paste API Key dari **Google AI Studio**
-12. 
+10. Create API Key -> Pilih Project, example : klabs/gcp-06-02-faea3afbae780 -> Create API Key in existing project
+11. Copy API Key, hasil Generate
+12. Buka file .env.local (di folder aplikasi sundaverse-v.3.0) -> paste API Key dari **Google AI Studio**, example :
+    zcasklabs/gcp-06-02-faea3afbae780
+
 ---
 
 ## 🧪 Testing
