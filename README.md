@@ -82,8 +82,11 @@ example : http://localhost:3000
    - C:\Users\> cd
    - C:\> cd sundaverse-v.3.0
    - C:\sundaverse-v.3.0>npm install (tunggu hingga proses selesai)
-6. Buka file .env.local (pada folder aplikasi sundaverse-v.3.0) -> paste API Key
-7. 
+6. Kembali ke **Vertex AI Challenge Lab** -> Start Lab
+7. Buka Google Cloud Console -> Klik kanan Open Link in Incognito windows
+8. Masih di Incognito windows, dengan tab baru masuk ke **Google AI Studio**
+9. Buka file .env.local (di folder aplikasi sundaverse-v.3.0) -> paste API Key
+10. 
 ---
 
 ## 🧪 Testing
