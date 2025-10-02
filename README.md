@@ -9,6 +9,8 @@
   Versi terbaru dari <b>Sundaverse</b>, Menghadirkan Performa Lebih Cepat, UI/UX lebih segar, dan Arsitektur yang lebih Scalable 🚀  
 </p>
 
+---
+
 ## ✨ Fitur Utama
 1.  ⚡ **Performa lebih cepat** dan stabil  
 2.  🎨 **UI/UX modern & responsif**  
@@ -30,14 +32,10 @@
   <img src="https://github.com/syaifulamri1625/sundaverse-v.3.0/blob/4367d07c8f33cb8233ab627e4e866694a4a713ca/public/sundaverse.png" alt="Sundaverse Preview" width="1200"/>
 </p>
 
----
-
 ## 📸 Preview Generator Video VEO3
 <p align="center">
   <img src="https://github.com/syaifulamri1625/sundaverse-v.3.0/blob/4367d07c8f33cb8233ab627e4e866694a4a713ca/public/sundaverse.png" alt="Sundaverse Preview" width="1200"/>
 </p>
-
----
 
 ## 📸 Preview VEO PROMPT Generator
 <p align="center">
