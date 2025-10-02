@@ -73,8 +73,8 @@ example : http://localhost:3000
 ---
 
 ## ⚙️ Instalasi & Setup (Localhost)
-1. Forward email alias ke Firefox Rellay: https://relay.firefox.com/ (agar semua email masuk ke inbox Gmail utama) -> Generate Mask
-2. Join ke Cloud Skill Boost: https://www.cloudskillsboost.google/ (gunakan email yang telah dibuat di Firefox Rellay/jangan gunakan Gmail utama)
+1. Forward email alias ke **Firefox Rellay**: https://relay.firefox.com/ (agar semua email masuk ke inbox Gmail utama) -> Generate Mask
+2. Join ke **Cloud Skill Boost**: https://www.cloudskillsboost.google/ (gunakan alias email yang dibuat di Firefox Rellay, disarankan untuk tidak menggunakan Gmail utama)
 3. 
 
 ---
