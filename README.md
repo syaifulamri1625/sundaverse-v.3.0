@@ -76,6 +76,8 @@ example : http://localhost:3000
 1. Forward email alias ke **Firefox Rellay**: https://relay.firefox.com/ (agar semua email masuk ke inbox Gmail utama) -> **Generate Mask**
 2. Join **Cloud Skill Boost**: https://www.cloudskillsboost.google/ (gunakan alias email yang dibuat di Firefox Rellay, disarankan untuk tidak menggunakan Gmail utama)
 3. Pilih menu Explore di **Cloud Skill Boost** -> **Vertex AI Challenge Lab**
+4. Install Node JS dan NPM
+5. 
 
 ---
 
