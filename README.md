@@ -9,8 +9,6 @@
   Versi terbaru dari <b>Sundaverse</b>, Menghadirkan Performa Lebih Cepat, UI/UX lebih segar, dan Arsitektur yang lebih Scalable 🚀  
 </p>
 
----
-
 ## ✨ Fitur Utama
 1.  ⚡ **Performa lebih cepat** dan stabil  
 2.  🎨 **UI/UX modern & responsif**  
