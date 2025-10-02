@@ -42,7 +42,35 @@
 
 ---
 
-## ⚙️ Instalasi & Setup
+## ⚙️ Instalasi & Setup (Repositori)
+1. Clone repo
+example : git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
+         cd sundaverse-v.3.0
+
+2. Install dependencies
+Clone repo
+example :  git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
+         cd sundaverse-v.3.0
+
+3. Install dependencies
+npm install
+atau
+yarn install
+
+4. Setup environment
+cp .env.example .env
+
+5. Jalankan development server
+npm run dev
+atau
+yarn dev
+
+6. Lalu buka aplikasi di browser:
+example : http://localhost:3000
+
+---
+
+## ⚙️ Instalasi & Setup (Localhost)
 1. Clone repo
 example : git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
          cd sundaverse-v.3.0
