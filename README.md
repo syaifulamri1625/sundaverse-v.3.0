@@ -78,8 +78,8 @@ example : http://localhost:3000
 3. Pilih menu Explore di **Cloud Skill Boost** -> **Vertex AI Challenge Lab**
 4. Install Node.JS dan NPM
 5. Masuk direktori aplikasi disimpan
-   example : C:\Users\AmriCameo> cd ..
-   
+   example : C:\Users\AmriCameo>cd..
+             C:\Users\AmriCameo>cd
 
 ---
 
