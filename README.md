@@ -44,12 +44,12 @@
 
 ## ⚙️ Instalasi & Setup
 1. Clone repo
-contoh : git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
+example : git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
          cd sundaverse-v.3.0
 
 2. Install dependencies
 Clone repo
-contoh : git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
+example :  git clone https://github.com/syaifulamri1625/sundaverse-v.3.0.git
          cd sundaverse-v.3.0
 
 3. Install dependencies
@@ -66,7 +66,7 @@ atau
 yarn dev
 
 6. Lalu buka aplikasi di browser:
-👉 http://localhost:3000
+example : http://localhost:3000
 
 ---
 
