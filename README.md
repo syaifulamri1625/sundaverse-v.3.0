@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/syaifulamri1625/sundaverse-v.3.0/blob/e919d218ac4e2a57fd6c62eeebb4a951d6c93646/public/header_sundaverse.png" />
 </div>
 
 <h1 align="center">🌌 Sundaverse v3.0</h1>
