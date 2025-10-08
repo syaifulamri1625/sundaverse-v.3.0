@@ -38,7 +38,16 @@
     - Pelacakan Kontunitas
     - Pemecahan Masalah di SET
 3.  🔐 **Pasca-Produksi**
-4.  📦 **Manajemen_Aset_Dan_Kolaborasi** 
+    - Ide Urutan Editing
+    - Palet Color Grading
+    - Konsep Desain Suara
+    - Ide Efek Visual (VFX)
+    - Materi Pemasaran
+5.  📦 **Manajemen_Aset_Dan_Kolaborasi** 
+    - Penandaan Metadata
+    - Rangkuman Konten
+    - Brainstorming Ide
+    - Pembuatan Umpan Balik
 
 ---
 
