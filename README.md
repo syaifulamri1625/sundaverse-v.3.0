@@ -23,7 +23,13 @@
 1.  ⚡ **Tanpa akun Pro, tetap bisa bikin video unlimited**
 2.  🎨 **Ada fitur suara dialog otomatis**  
 3.  🔐 **Bisa pakai image referensi biar hasilnya lebih presisi**
-4.  📦 **Sangat cocok dipakai untuk bikin konten YouTube, TikTok, maupun Instagram Reels.**  
+4.  📦 **Sangat cocok dipakai untuk bikin konten YouTube, TikTok, maupun Instagram Reels.**
+
+## ✨ Produk Dalam Aplikasi
+1.  ⚡ **Pra-Produksi** 
+2.  🎨 **Produksi**  
+3.  🔐 **Pasca-Produksi**
+4.  📦 **Manajemen_Aset_Dan_Kolaborasi** 
 
 ---
 
