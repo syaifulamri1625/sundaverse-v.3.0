@@ -35,9 +35,8 @@
 2.  🎨 **Produksi**
     - Generator Video VEO 3
     - Laporan Produksi Harian
-    - Konsep Storyboard
-    - Ide Casting
-    - Ide Pencarian Lokasi
+    - Pelacakan Kontunitas
+    - Pemecahan Masalah di SET
 3.  🔐 **Pasca-Produksi**
 4.  📦 **Manajemen_Aset_Dan_Kolaborasi** 
 
